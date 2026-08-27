@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cxydxn
-- 👀 I’m an IT Support Specialist
-- 🌱 I’m currently learning Automation
-- 📫 You can reach me @Cxydxn on reddit
+- Hi, I’m @Cxydxn
+- I’m an IT Support Specialist
+- I’m currently studying Cloud & Network Engineering
+- You can reach me at [Cxydxn.com](https://cxydxn.com)
